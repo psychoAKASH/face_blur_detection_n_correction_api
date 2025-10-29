@@ -215,3 +215,4 @@ celerybeat.pid
 
 # Redis
 dump.rdb
+.idea/
